@@ -1,14 +1,11 @@
-﻿Color color1 = Color.MakeColor(37, 66, 102);
+﻿Color color1 = Color.MakeColor(37, 300, 102);
 Color color2 = Color.Yellow;
 
-color1.LogColor();
-color2.LogColor();
+color1?.LogColor();
+color2?.LogColor();
 
 class Color
 {
-    int min = 0;
-    int max = 255;
-
     public int MyRed { get; private set; }
     public int MyGreen { get; private set; }
     public int MyBlue { get; private set; }
