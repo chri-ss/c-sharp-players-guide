@@ -1,4 +1,4 @@
-﻿Color color1 = Color.MakeColor(37, 300, 102);
+﻿Color color1 = Color.MakeColor(37, 23, 102);
 Color color2 = Color.Yellow;
 
 color1?.LogColor();

@@ -1,0 +1,15 @@
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\bin\Release\net7.0\Color.exe
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\bin\Release\net7.0\Color.deps.json
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\bin\Release\net7.0\Color.runtimeconfig.json
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\bin\Release\net7.0\Color.dll
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\bin\Release\net7.0\Color.pdb
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\Color.csproj.AssemblyReference.cache
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\Color.AssemblyInfoInputs.cache
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\Color.AssemblyInfo.cs
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\Color.csproj.CoreCompileInputs.cache
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\Color.dll
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\refint\Color.dll
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\Color.pdb
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\Color.genruntimeconfig.cache
+C:\Users\chris\Source\Repos\c-sharp-players-guide\Chapter-24\Color\obj\Release\net7.0\ref\Color.dll
