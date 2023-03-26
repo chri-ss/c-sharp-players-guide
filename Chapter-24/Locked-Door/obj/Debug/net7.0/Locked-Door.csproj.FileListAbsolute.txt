@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\bin\Debug\net7.0\Locked-Door.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\bin\Debug\net7.0\Locked-Door.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\bin\Debug\net7.0\Locked-Door.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\bin\Debug\net7.0\Locked-Door.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\bin\Debug\net7.0\Locked-Door.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\Locked-Door.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\Locked-Door.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\Locked-Door.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\Locked-Door.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\Locked-Door.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\Locked-Door.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\refint\Locked-Door.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\Locked-Door.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\Locked-Door.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Locked-Door\obj\Debug\net7.0\ref\Locked-Door.dll
