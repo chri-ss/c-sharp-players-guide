@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Chapter-24",
+    "\\Chapter-24\\Color",
+    "\\Chapter-24\\Point",
+    "\\Chapter-24\\Point\\Point"
   ],
-  "SelectedNode": "\\Point.sln",
+  "SelectedNode": "\\Chapter-24",
   "PreviewInSolutionExplorer": false
 }

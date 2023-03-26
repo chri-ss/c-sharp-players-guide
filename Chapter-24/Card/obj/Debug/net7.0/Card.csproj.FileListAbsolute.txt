@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\bin\Debug\net7.0\Card.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\bin\Debug\net7.0\Card.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\bin\Debug\net7.0\Card.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\bin\Debug\net7.0\Card.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\bin\Debug\net7.0\Card.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\Card.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\Card.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\Card.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\Card.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\Card.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\refint\Card.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\Card.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\Card.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-24\Card\obj\Debug\net7.0\ref\Card.dll

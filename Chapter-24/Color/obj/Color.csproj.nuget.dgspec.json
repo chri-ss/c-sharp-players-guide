@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Color\\Color.csproj": {}
+    "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Chapter-24\\Color\\Color.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Color\\Color.csproj": {
+    "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Chapter-24\\Color\\Color.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Color\\Color.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Chapter-24\\Color\\Color.csproj",
         "projectName": "Color",
-        "projectPath": "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Color\\Color.csproj",
+        "projectPath": "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Chapter-24\\Color\\Color.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Color\\obj\\",
+        "outputPath": "C:\\Users\\chris\\source\\repos\\c-sharp-players-guide\\Chapter-24\\Color\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
