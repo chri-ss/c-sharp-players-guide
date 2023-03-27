@@ -1,7 +1,42 @@
-﻿Door door = new Door(1234);
+﻿Console.WriteLine("Enter a passcode for a new door");
 
-door.Open(1234);
-door.Close(1234);
+int pass = Convert.ToInt32(Console.ReadLine());
+
+Door door = new Door(pass);
+
+while (true)
+{
+    Console.WriteLine("What would you like to do?\n 1. Open the Door\n 2. Close the Door\n 3. Lock the Door\n 4. Unlock the door\n 5. Set new password");
+
+    int response = Convert.ToInt32(Console.ReadLine());
+
+    switch (response)
+    {
+        case 1:
+            door.Open();
+            break;
+        case 2:
+            door.Close();
+            break;
+        case 3:
+            door.Lock();
+            break;
+        case 4:
+            Console.WriteLine("Please enter the password:");
+            pass = Convert.ToInt32(Console.ReadLine());
+            door.Unlock(pass);
+            break;
+        case 5:
+            Console.WriteLine("Enter a new password:");
+            pass = Convert.ToInt32(Console.ReadLine());
+            door.UpdatePass(pass);
+            break;
+
+        default:
+            Console.WriteLine("Invalid option. Please try again.");
+            break;
+    }
+}
 
 class Door
 {
@@ -10,71 +45,50 @@ class Door
     private DoorStates OpenState { get; set; }
     private DoorStates LockState { get; set; }
 
-    public void Open(int pass)
+    public void Open()
     {
-        if (pass == Passcode)
+        if (OpenState == DoorStates.Closed && LockState == DoorStates.Unlocked)
         {
-            if (OpenState == DoorStates.Closed && LockState == DoorStates.Unlocked)
-            {
-                OpenState = DoorStates.Open;
-                LogDoorState();
-            }
-            else if (OpenState == DoorStates.Open)
-            {
-                Console.WriteLine("The Door is already Open.");
-            }
-            else if (LockState == DoorStates.Locked)
-            {
-                Console.WriteLine("The Door is Locked.");
-            }
+            OpenState = DoorStates.Open;
+            LogDoorState();
         }
-        else
+        else if (OpenState == DoorStates.Open)
         {
-            Console.WriteLine("Wrong Pass Code.");
+            Console.WriteLine("The Door is already Open.");
+        }
+        else if (LockState == DoorStates.Locked)
+        {
+            Console.WriteLine("The Door is Locked.");
         }
     }
 
-    public void Close(int pass)
+    public void Close()
     {
-        if (pass == Passcode)
+        if (OpenState == DoorStates.Open)
         {
-            if (OpenState == DoorStates.Open)
-            {
-                OpenState = DoorStates.Closed;
-                LogDoorState();
-            }
-            else if (OpenState == DoorStates.Closed)
-            {
-                Console.WriteLine("The Door is already Closed.");
-            }
+            OpenState = DoorStates.Closed;
+            LogDoorState();
         }
-        else
+        else if (OpenState == DoorStates.Closed)
         {
-            Console.WriteLine("Wrong Pass Code.");
+            Console.WriteLine("The Door is already Closed.");
         }
     }
 
-    public void Lock(int pass)
+    public void Lock()
     {
-        if (pass == Passcode)
+        if (OpenState == DoorStates.Closed && LockState == DoorStates.Unlocked)
         {
-            if (OpenState == DoorStates.Closed && LockState == DoorStates.Unlocked)
-            {
-                LockState = DoorStates.Locked;
-                LogDoorState();
-            }
-            else if (OpenState == DoorStates.Open)
-            {
-                Console.WriteLine("The door is already Open, it can't be Locked.");
-            }
-            else if (LockState == DoorStates.Locked)
-            {
-                Console.WriteLine("The Door is already locked.");
-            }
+            LockState = DoorStates.Locked;
+            LogDoorState();
         }
-        else
+        else if (OpenState == DoorStates.Open)
         {
-            Console.WriteLine("Wrong Pass Code.");
+            Console.WriteLine("The door is already Open, it can't be Locked.");
+        }
+        else if (LockState == DoorStates.Locked)
+        {
+            Console.WriteLine("The Door is already locked.");
         }
     }
 
@@ -102,9 +116,24 @@ class Door
         }
     }
 
+    public void UpdatePass(int newPass)
+    {
+        Console.WriteLine("Please enter the old Password to change:");
+        int old = Convert.ToInt32(Console.ReadLine());
+
+        if (old == Passcode)
+        {
+            Passcode = newPass;
+        }
+        else
+        {
+            Console.WriteLine("Wrong Pass");
+        }
+    }
+
     public void LogDoorState()
     {
-        Console.WriteLine($"The Door is {OpenState}");
+        Console.WriteLine($"The Door is {OpenState} and {LockState}");
     }
 
     public Door(int passcode)
