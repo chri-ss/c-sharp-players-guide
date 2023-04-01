@@ -7,6 +7,8 @@ namespace tictactoe
         public Player p1;
         public Player p2;
 
+        public Board board = new Board();
+
         public Game()
         {
             string marker = "";
@@ -23,6 +25,7 @@ namespace tictactoe
             p2 = new Player(other);
             p1.Mark();
             p2.Mark();
+            board.DisplayBoard();
         }
     }
 }
