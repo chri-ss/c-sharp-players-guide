@@ -31,5 +31,23 @@ namespace tictactoe
                 }
             }
         }
+
+        public bool Hit(string pMark, int markLocation)
+        {
+            (int, int) coords = markMap[markLocation - 1];
+            if (board[coords.Item1, coords.Item2] == " ")
+            {
+                board[coords.Item1, coords.Item2] = pMark;
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        private (int, int)[] markMap = { (2, 0), (2, 1), (2, 2), (1, 0), (1, 1), (1, 2), (0, 0), (0, 1), (0, 2) };
     }
+
 }
+
