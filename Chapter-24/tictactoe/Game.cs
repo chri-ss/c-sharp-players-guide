@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace tictactoe
 {
@@ -10,6 +11,7 @@ namespace tictactoe
         public Board board = new Board();
 
         private bool gameover = false;
+
 
         public Game()
         {
@@ -44,6 +46,13 @@ namespace tictactoe
 
                 if (board.Hit(current._marker, markLocation))
                 {
+                    if (board.CheckForWin(current._marker))
+                    {
+                        gameover = true;
+                        board.DisplayBoard();
+                        Console.WriteLine($"{current._marker} won the game!");
+                        break;
+                    }
                     if (p1.turn)
                     {
                         p1.turn = false;
@@ -59,8 +68,8 @@ namespace tictactoe
                 {
                     Console.WriteLine("Space already occupied. Please try again.");
                 }
-
             }
+
         }
     }
 }
