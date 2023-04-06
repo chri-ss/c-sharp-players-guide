@@ -70,8 +70,6 @@ class Pack
 
     public int Count { get { return Items.Length; } }
 
-    public bool full = false;
-
     public bool Add(InventoryItem item)
     {
         for (int i = 0; i < Items.Length; i++)
@@ -83,7 +81,23 @@ class Pack
                 Volume += item.Volume;
                 return true;
             }
+            else if (Items[i] == null && Weight + item.Weight > MaxWeight)
+            {
+                Console.WriteLine("Exceeds weight limit.");
+                break;
+            }
+            else if (Items[i] == null && Volume + item.Volume > MaxVolume)
+            {
+                Console.WriteLine("Exceeds volume limit.");
+                break;
+            }
         }
+
+        if (Items[Items.Length - 1] != null)
+        {
+            Console.WriteLine("Pack is full.");
+        }
+
         Console.WriteLine("unable to add item.\n");
         return false;
     }
