@@ -49,14 +49,7 @@ while (true)
             break;
     }
 
-    Console.WriteLine("Current Pack Contents:\n");
-    foreach (InventoryItem item in pack.Items)
-    {
-        if (item != null)
-        {
-            Console.WriteLine($"{item.GetType()}");
-        }
-    }
+    Console.WriteLine(pack.ToString());
 }
 
 class Pack
@@ -100,6 +93,20 @@ class Pack
 
         Console.WriteLine("unable to add item.\n");
         return false;
+    }
+
+    public override string ToString()
+    {
+        string items = "";
+        foreach (InventoryItem item in Items)
+        {
+            if (item != null)
+            {
+                items += item.ToString() + " ";
+            }
+        }
+
+        return $"A pack containing {items}";
     }
 }
 
