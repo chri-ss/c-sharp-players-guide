@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\bin\Debug\net7.0\Coordinate.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\bin\Debug\net7.0\Coordinate.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\bin\Debug\net7.0\Coordinate.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\bin\Debug\net7.0\Coordinate.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\bin\Debug\net7.0\Coordinate.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\Coordinate.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\Coordinate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\Coordinate.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\Coordinate.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\Coordinate.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\Coordinate.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\refint\Coordinate.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\Coordinate.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\Coordinate.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-28\Coordinate\obj\Debug\net7.0\ref\Coordinate.dll
