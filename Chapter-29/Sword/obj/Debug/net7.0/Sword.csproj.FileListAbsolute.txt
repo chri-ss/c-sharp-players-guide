@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\bin\Debug\net7.0\Sword.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\bin\Debug\net7.0\Sword.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\bin\Debug\net7.0\Sword.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\bin\Debug\net7.0\Sword.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\bin\Debug\net7.0\Sword.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\Sword.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\Sword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\Sword.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\Sword.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\Sword.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\Sword.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\refint\Sword.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\Sword.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\Sword.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-29\Sword\obj\Debug\net7.0\ref\Sword.dll
