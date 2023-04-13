@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\ColoredItem.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\ColoredItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\ColoredItem.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\ColoredItem.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\ColoredItem.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\bin\Debug\net7.0\ColoredItem.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\bin\Debug\net7.0\ColoredItem.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\bin\Debug\net7.0\ColoredItem.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\bin\Debug\net7.0\ColoredItem.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\bin\Debug\net7.0\ColoredItem.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\ColoredItem.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\refint\ColoredItem.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\ColoredItem.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\ColoredItem.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-30\ColoredItem\obj\Debug\net7.0\ref\ColoredItem.dll
