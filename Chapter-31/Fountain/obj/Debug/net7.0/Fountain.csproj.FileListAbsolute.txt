@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\bin\Debug\net7.0\Fountain.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\bin\Debug\net7.0\Fountain.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\bin\Debug\net7.0\Fountain.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\bin\Debug\net7.0\Fountain.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\bin\Debug\net7.0\Fountain.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\Fountain.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\Fountain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\Fountain.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\Fountain.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\Fountain.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\Fountain.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\refint\Fountain.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\Fountain.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\Fountain.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-31\Fountain\obj\Debug\net7.0\ref\Fountain.dll

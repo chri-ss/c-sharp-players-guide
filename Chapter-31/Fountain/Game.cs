@@ -4,6 +4,6 @@ namespace Fountain
 {
     internal class Game
     {
-        private Map map = new Map();
+        public Map map = new Map(4, 4);
     }
 }
