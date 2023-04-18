@@ -8,6 +8,7 @@ namespace Fountain
         public Tile current { get; private set; }
 
         private bool fountainActive = false;
+        private bool win;
 
         public Game()
         {
@@ -89,11 +90,20 @@ namespace Fountain
 
         public void Run()
         {
+            win = false;
+            fountainActive = false;
             while (true)
             {
                 if (current.X == 0 && current.Y == 0)
                 {
-                    Console.WriteLine("You see light coming from the cavern entrance.");
+                    if (fountainActive)
+                    {
+                        win = true;
+                    }
+                    else
+                    {
+                        Console.WriteLine("You see light coming from the cavern entrance.");
+                    }
                 }
                 if (current.fountain)
                 {
@@ -107,8 +117,39 @@ namespace Fountain
                     }
                 }
 
+                if (win)
+                {
+                    string response = "";
+
+                    while (response != null)
+                    {
+                        // if you are more than one game deep
+                        if (response == "y")
+                        {
+                            break;
+                        }
+
+                        Console.WriteLine("The fountain of objects has been reactivated, and you have escaped with your life!");
+                        Console.WriteLine("PLay again? (y/n)");
+                        response = Console.ReadLine();
+                        if (response == "y")
+                        {
+                            Run();
+                        }
+                        else if (response == "n")
+                        {
+                            break;
+                        }
+                        else
+                        {
+                            continue;
+                        }
+                    }
+                    break;
+                }
+
                 Console.WriteLine($"You are in the room at (Row={current.X} Column={current.Y})\n" +
-                    $"Enter a cardinal direction ('n', 's', 'e', or 'w') to move or 'x' to enable the fountain, if present.");
+                        $"Enter a cardinal direction ('n', 's', 'e', or 'w') to move or 'x' to enable the fountain, if present.");
 
                 string direction = Console.ReadLine();
 
