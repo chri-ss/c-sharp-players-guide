@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 
 namespace Fountain
 {
@@ -9,13 +10,6 @@ namespace Fountain
 
         private bool fountainActive = false;
         private bool win;
-
-        public Game()
-        {
-            map = new Map(4, 4);
-            current = map.TileMap[0, 0];
-            map.TileMap[0, 2].fountain = true;
-        }
 
         public void Move(string direction)
         {
@@ -90,6 +84,14 @@ namespace Fountain
 
         public void Run()
         {
+            Console.WriteLine("Enter a size for the map (integer values only):");
+            int size = Convert.ToInt32(Console.ReadLine());
+
+            map = new Map(size, size);
+            map.DisplayMap();
+            current = map.TileMap[0, 0];
+            map.TileMap[0, 2].fountain = true;
+
             win = false;
             fountainActive = false;
             while (true)
