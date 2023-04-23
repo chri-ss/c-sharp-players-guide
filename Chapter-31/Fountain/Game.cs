@@ -84,10 +84,30 @@ namespace Fountain
 
         public void Run()
         {
-            Console.WriteLine("Enter a size for the map (integer values only):");
-            int size = Convert.ToInt32(Console.ReadLine());
+            // Choose map size
+            string size = "";
+            while (size != "s" && size != "m" && size != "l")
+            {
+                Console.WriteLine("Enter a size for the map (s: 4x4, m: 6x6, l: 8x8)");
+                size = Console.ReadLine();
 
-            map = new Map(size, size);
+                switch (size)
+                {
+                    case "s":
+                        map = new Map(4, 4);
+                        break;
+                    case "m":
+                        map = new Map(6, 6);
+                        break;
+                    case "l":
+                        map = new Map(8, 8);
+                        break;
+                    default:
+                        Console.WriteLine("Not a valid map size. Try again.");
+                        break;
+                }
+            }
+
             map.DisplayMap();
             current = map.TileMap[0, 0];
             map.TileMap[0, 2].fountain = true;
