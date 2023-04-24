@@ -109,8 +109,8 @@ namespace Fountain
 
             map.DisplayMap();
             current = map.TileMap[0, 0];
-            (int, int) fountainCoords = GetRandomTile(map);
-            map.TileMap[fountainCoords.Item1, fountainCoords.Item2].fountain = true;
+            //(int, int) fountainCoords = map.GetRandomTile();
+            //map.TileMap[fountainCoords.Item1, fountainCoords.Item2].fountain = true;
 
             win = false;
             fountainActive = false;
@@ -178,15 +178,6 @@ namespace Fountain
                 Move(direction);
                 Console.WriteLine($"({current.X}, {current.Y})");
             }
-        }
-
-        public (int, int) GetRandomTile(Map map)
-        {
-            Random rnd = new Random();
-            int x = rnd.Next(0, map.TileMap.GetLength(0));
-            int y = rnd.Next(0, map.TileMap.GetLength(1));
-
-            return (x, y);
         }
     }
 }

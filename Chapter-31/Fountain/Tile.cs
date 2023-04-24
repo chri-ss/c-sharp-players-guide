@@ -8,6 +8,8 @@ namespace Fountain
         public int Y { get; private set; }
 
         public bool fountain = false;
+        public bool pit = false;
+        public bool pitAdjacent = false;
 
         public Tile(int x, int y)
         {
