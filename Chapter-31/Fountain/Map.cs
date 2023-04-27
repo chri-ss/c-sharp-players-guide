@@ -50,7 +50,7 @@ namespace Fountain
                     if (i == randomFountain.Item1 && j == randomFountain.Item2)
                     {
                         TileMap[i, j].fountain = true;
-                        Console.WriteLine($"f: {i}, {j}");
+                        //Console.WriteLine($"f: {i}, {j}");
                     }
 
                     for (int k = 0; k < randomPits.Length; k++)
@@ -58,7 +58,7 @@ namespace Fountain
                         if (i == randomPits[k].Item1 && j == randomPits[k].Item2)
                         {
                             TileMap[i, j].pit = true;
-                            Console.WriteLine($"p: {i}, {j}");
+                            //Console.WriteLine($"p: {i}, {j}");
                         }
                     }
                 }
@@ -96,7 +96,7 @@ namespace Fountain
                         if (TileMap[i, j] != TileMap[x, y])
                         {
                             TileMap[i, j].pitAdjacent = true;
-                            Console.WriteLine($"{i}, {j}");
+                            //Console.WriteLine($"{i}, {j}");
                         }
                     }
                 }

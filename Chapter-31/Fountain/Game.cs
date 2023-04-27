@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Drawing;
 
 namespace Fountain
 {
@@ -10,7 +9,7 @@ namespace Fountain
 
         private bool fountainActive = false;
         private bool win;
-        public bool lose;
+        private bool lose;
 
         public void Move(string direction)
         {
@@ -108,7 +107,7 @@ namespace Fountain
                 }
             }
 
-            map.DisplayMap();
+            //map.DisplayMap();
             current = map.TileMap[0, 0];
 
             win = false;
@@ -124,6 +123,7 @@ namespace Fountain
                     }
                     else
                     {
+                        Console.ForegroundColor = ConsoleColor.Blue;
                         Console.WriteLine("You see light coming from the cavern entrance.");
                     }
                 }
@@ -131,21 +131,26 @@ namespace Fountain
                 {
                     if (fountainActive)
                     {
+                        Console.ForegroundColor = ConsoleColor.Blue;
                         Console.WriteLine("You hear the rushing waters from the Fountain of Objects. It has been reactivated!");
                     }
                     else
                     {
+                        Console.ForegroundColor = ConsoleColor.Cyan;
                         Console.WriteLine("You hear dripping in this room. The fountain of objects is here!");
                     }
                 }
                 if (current.pitAdjacent)
                 {
+                    Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.WriteLine("You feel a draft. There is a pit in a nearby room");
                 }
                 if (current.pit)
                 {
                     lose = true;
                 }
+
+                Console.ForegroundColor = ConsoleColor.White;
 
                 if (win || lose)
                 {
@@ -164,8 +169,10 @@ namespace Fountain
                         }
                         else if (lose)
                         {
+                            Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine("You fall down a pit. Game over!");
                         }
+                        Console.ForegroundColor = ConsoleColor.White;
                         Console.WriteLine("Play again? (y/n)");
                         response = Console.ReadLine();
                         if (response == "y")
