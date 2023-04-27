@@ -10,6 +10,7 @@ namespace Fountain
 
         private bool fountainActive = false;
         private bool win;
+        public bool lose;
 
         public void Move(string direction)
         {
@@ -17,7 +18,7 @@ namespace Fountain
             {
                 case "n":
                     // move north
-                    if (current.X > 0 && current.X <= 3)
+                    if (current.X > 0 && current.X <= map.TileMap.GetLength(0) - 1)
                     {
                         current = map.TileMap[current.X - 1, current.Y];
                     }
@@ -29,7 +30,7 @@ namespace Fountain
 
                 case "e":
                     // move right
-                    if (current.Y >= 0 && current.Y < 3)
+                    if (current.Y >= 0 && current.Y < map.TileMap.GetLength(1) - 1)
                     {
                         current = map.TileMap[current.X, current.Y + 1];
                     }
@@ -41,7 +42,7 @@ namespace Fountain
 
                 case "s":
                     // move south
-                    if (current.X >= 0 && current.X < 3)
+                    if (current.X >= 0 && current.X < map.TileMap.GetLength(1) - 1)
                     {
                         current = map.TileMap[current.X + 1, current.Y];
                     }
@@ -53,7 +54,7 @@ namespace Fountain
 
                 case "w":
                     // move left
-                    if (current.Y > 0 && current.Y <= 3)
+                    if (current.Y > 0 && current.Y <= map.TileMap.GetLength(0) - 1)
                     {
                         current = map.TileMap[current.X, current.Y - 1];
                     }
@@ -93,13 +94,13 @@ namespace Fountain
                 switch (size)
                 {
                     case "s":
-                        map = new Map(4, 4);
+                        map = new Map(4);
                         break;
                     case "m":
-                        map = new Map(6, 6);
+                        map = new Map(6);
                         break;
                     case "l":
-                        map = new Map(8, 8);
+                        map = new Map(8);
                         break;
                     default:
                         Console.WriteLine("Not a valid map size. Try again.");
@@ -109,10 +110,9 @@ namespace Fountain
 
             map.DisplayMap();
             current = map.TileMap[0, 0];
-            //(int, int) fountainCoords = map.GetRandomTile();
-            //map.TileMap[fountainCoords.Item1, fountainCoords.Item2].fountain = true;
 
             win = false;
+            lose = false;
             fountainActive = false;
             while (true)
             {
@@ -138,8 +138,16 @@ namespace Fountain
                         Console.WriteLine("You hear dripping in this room. The fountain of objects is here!");
                     }
                 }
+                if (current.pitAdjacent)
+                {
+                    Console.WriteLine("You feel a draft. There is a pit in a nearby room");
+                }
+                if (current.pit)
+                {
+                    lose = true;
+                }
 
-                if (win)
+                if (win || lose)
                 {
                     string response = "";
 
@@ -150,9 +158,15 @@ namespace Fountain
                         {
                             break;
                         }
-
-                        Console.WriteLine("The fountain of objects has been reactivated, and you have escaped with your life!");
-                        Console.WriteLine("PLay again? (y/n)");
+                        if (win)
+                        {
+                            Console.WriteLine("The fountain of objects has been reactivated, and you have escaped with your life!");
+                        }
+                        else if (lose)
+                        {
+                            Console.WriteLine("You fall down a pit. Game over!");
+                        }
+                        Console.WriteLine("Play again? (y/n)");
                         response = Console.ReadLine();
                         if (response == "y")
                         {
