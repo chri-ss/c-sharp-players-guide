@@ -11,6 +11,10 @@ namespace Fountain
         private bool win;
         private bool lose;
 
+        private DateTime start;
+        private DateTime end;
+        private TimeSpan elapsed;
+
         public void Move(string direction)
         {
             switch (direction)
@@ -83,6 +87,7 @@ namespace Fountain
 
         public void Run()
         {
+            start = DateTime.Now;
             // Choose map size
             string size = "";
             while (size != "s" && size != "m" && size != "l")
@@ -154,6 +159,8 @@ namespace Fountain
 
                 if (win || lose)
                 {
+                    end = DateTime.Now;
+                    elapsed = end - start;
                     string response = "";
 
                     while (response != null)
@@ -172,6 +179,8 @@ namespace Fountain
                             Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine("You fall down a pit. Game over!");
                         }
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine($"time: {elapsed}");
                         Console.ForegroundColor = ConsoleColor.White;
                         Console.WriteLine("Play again? (y/n)");
                         response = Console.ReadLine();
