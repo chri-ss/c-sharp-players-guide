@@ -1,7 +1,8 @@
 ﻿Robot robot = new Robot();
 
-int i = 0;
-while (i < robot.Commands.Length)
+//int i = 0;
+string response = "";
+while (response != "7")
 {
     Console.WriteLine("Choose a command\n" +
         "1) turn on\n" +
@@ -9,34 +10,36 @@ while (i < robot.Commands.Length)
         "3) move north\n" +
         "4) move south\n" +
         "5) move west\n" +
-        "6) move east");
-    string response = Console.ReadLine();
+        "6) move east" +
+        "7) stop");
+    response = Console.ReadLine();
 
     switch (response)
     {
         case "1":
-            robot.Commands[i] = new OnCommand();
+            robot.Commands?.Add(new OnCommand());
             break;
         case "2":
-            robot.Commands[i] = new OffCommand();
+            robot.Commands?.Add(new OffCommand());
             break;
         case "3":
-            robot.Commands[i] = new NorthCommand();
+            robot.Commands?.Add(new NorthCommand());
             break;
         case "4":
-            robot.Commands[i] = new SouthCommand();
+            robot.Commands?.Add(new SouthCommand());
             break;
         case "5":
-            robot.Commands[i] = new WestCommand();
+            robot.Commands?.Add(new WestCommand());
             break;
         case "6":
-            robot.Commands[i] = new EastCommand();
+            robot.Commands?.Add(new EastCommand());
+            break;
+        case "7":
             break;
         default:
             Console.WriteLine("Invalid command");
             break;
     }
-    i++;
 }
 
 robot.Run();
@@ -46,7 +49,7 @@ public class Robot
     public int X { get; set; }
     public int Y { get; set; }
     public bool IsPowered { get; set; }
-    public IRobotCommand?[] Commands { get; } = new IRobotCommand?[3];
+    public List<IRobotCommand> Commands { get; } = new List<IRobotCommand>();
 
     public void Run()
     {
