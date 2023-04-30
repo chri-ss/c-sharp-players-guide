@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\bin\Debug\net7.0\NamespaceFeud.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\bin\Debug\net7.0\NamespaceFeud.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\bin\Debug\net7.0\NamespaceFeud.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\bin\Debug\net7.0\NamespaceFeud.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\bin\Debug\net7.0\NamespaceFeud.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\NamespaceFeud.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\NamespaceFeud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\NamespaceFeud.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\NamespaceFeud.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\NamespaceFeud.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\NamespaceFeud.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\refint\NamespaceFeud.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\NamespaceFeud.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\NamespaceFeud.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-33\NamespaceFeud\obj\Debug\net7.0\ref\NamespaceFeud.dll
