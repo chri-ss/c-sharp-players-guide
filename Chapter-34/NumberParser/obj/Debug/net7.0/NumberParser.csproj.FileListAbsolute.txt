@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\bin\Debug\net7.0\NumberParser.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\bin\Debug\net7.0\NumberParser.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\bin\Debug\net7.0\NumberParser.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\bin\Debug\net7.0\NumberParser.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\bin\Debug\net7.0\NumberParser.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\NumberParser.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\NumberParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\NumberParser.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\NumberParser.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\NumberParser.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\NumberParser.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\refint\NumberParser.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\NumberParser.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\NumberParser.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\NumberParser\obj\Debug\net7.0\ref\NumberParser.dll
