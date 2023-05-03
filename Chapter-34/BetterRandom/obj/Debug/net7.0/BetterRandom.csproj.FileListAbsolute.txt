@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\BetterRandom.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\BetterRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\BetterRandom.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\BetterRandom.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\BetterRandom.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\bin\Debug\net7.0\BetterRandom.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\bin\Debug\net7.0\BetterRandom.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\bin\Debug\net7.0\BetterRandom.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\bin\Debug\net7.0\BetterRandom.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\bin\Debug\net7.0\BetterRandom.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\BetterRandom.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\refint\BetterRandom.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\BetterRandom.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\BetterRandom.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-34\BetterRandom\obj\Debug\net7.0\ref\BetterRandom.dll
