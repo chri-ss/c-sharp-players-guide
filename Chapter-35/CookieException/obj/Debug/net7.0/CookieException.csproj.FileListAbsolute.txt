@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\bin\Debug\net7.0\CookieException.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\bin\Debug\net7.0\CookieException.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\bin\Debug\net7.0\CookieException.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\bin\Debug\net7.0\CookieException.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\bin\Debug\net7.0\CookieException.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\CookieException.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\CookieException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\CookieException.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\CookieException.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\CookieException.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\CookieException.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\refint\CookieException.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\CookieException.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\CookieException.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-35\CookieException\obj\Debug\net7.0\ref\CookieException.dll
