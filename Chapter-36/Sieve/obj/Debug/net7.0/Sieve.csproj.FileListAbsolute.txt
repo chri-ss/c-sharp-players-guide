@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\bin\Debug\net7.0\Sieve.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\bin\Debug\net7.0\Sieve.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\bin\Debug\net7.0\Sieve.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\bin\Debug\net7.0\Sieve.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\bin\Debug\net7.0\Sieve.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\Sieve.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\Sieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\Sieve.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\Sieve.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\Sieve.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\Sieve.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\refint\Sieve.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\Sieve.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\Sieve.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-36\Sieve\obj\Debug\net7.0\ref\Sieve.dll
