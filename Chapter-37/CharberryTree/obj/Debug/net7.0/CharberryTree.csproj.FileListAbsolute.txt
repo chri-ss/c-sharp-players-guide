@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\bin\Debug\net7.0\CharberryTree.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\bin\Debug\net7.0\CharberryTree.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\bin\Debug\net7.0\CharberryTree.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\bin\Debug\net7.0\CharberryTree.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\bin\Debug\net7.0\CharberryTree.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\CharberryTree.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\CharberryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\CharberryTree.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\CharberryTree.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\CharberryTree.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\CharberryTree.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\refint\CharberryTree.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\CharberryTree.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\CharberryTree.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-37\CharberryTree\obj\Debug\net7.0\ref\CharberryTree.dll
