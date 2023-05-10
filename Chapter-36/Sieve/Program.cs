@@ -1,4 +1,4 @@
-﻿Sieve sieve = new Sieve(Sieve.IsEven);
+﻿Sieve sieve = new Sieve(n => true);
 
 Console.WriteLine("Choose");
 
@@ -6,15 +6,15 @@ int response = Convert.ToInt32(Console.ReadLine());
 
 if (response == 1)
 {
-    sieve = new Sieve(Sieve.IsEven);
+    sieve = new Sieve(n => n % 2 == 0);
 }
 else if (response == 2)
 {
-    sieve = new Sieve(Sieve.IsPositive);
+    sieve = new Sieve(n => n > 0);
 }
 else if (response == 3)
 {
-    sieve = new Sieve(Sieve.IsMultipleOfTen);
+    sieve = new Sieve(n => n % 10 == 0);
 }
 
 while (true)
@@ -38,28 +38,5 @@ class Sieve
     public bool IsGood(int number)
     {
         return filterDelegate(number);
-    }
-
-    public static bool IsEven(int number)
-    {
-        if (number % 2 == 0)
-        {
-            return true;
-        }
-        return false;
-    }
-
-    public static bool IsPositive(int number)
-    {
-        return number > 0;
-    }
-
-    public static bool IsMultipleOfTen(int number)
-    {
-        if (number % 10 == 0)
-        {
-            return true;
-        }
-        return false;
     }
 }
