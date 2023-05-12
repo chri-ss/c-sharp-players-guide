@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\bin\Debug\net7.0\ScoreKeeper.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\bin\Debug\net7.0\ScoreKeeper.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\bin\Debug\net7.0\ScoreKeeper.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\bin\Debug\net7.0\ScoreKeeper.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\bin\Debug\net7.0\ScoreKeeper.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\ScoreKeeper.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\ScoreKeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\ScoreKeeper.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\ScoreKeeper.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\ScoreKeeper.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\ScoreKeeper.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\refint\ScoreKeeper.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\ScoreKeeper.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\ScoreKeeper.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-39\ScoreKeeper\obj\Debug\net7.0\ref\ScoreKeeper.dll
