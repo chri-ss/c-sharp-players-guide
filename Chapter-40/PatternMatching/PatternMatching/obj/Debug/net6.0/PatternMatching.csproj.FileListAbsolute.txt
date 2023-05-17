@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\bin\Debug\net6.0\PatternMatching.exe
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\bin\Debug\net6.0\PatternMatching.deps.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\bin\Debug\net6.0\PatternMatching.runtimeconfig.json
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\bin\Debug\net6.0\PatternMatching.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\bin\Debug\net6.0\PatternMatching.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\PatternMatching.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\PatternMatching.AssemblyInfo.cs
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\PatternMatching.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\refint\PatternMatching.dll
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\PatternMatching.pdb
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\PatternMatching.genruntimeconfig.cache
+C:\Users\chris\source\repos\c-sharp-players-guide\Chapter-40\PatternMatching\PatternMatching\obj\Debug\net6.0\ref\PatternMatching.dll
